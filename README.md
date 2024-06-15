@@ -44,11 +44,6 @@
   </a>
 </p>
 
-<h1 align="center">Github Stats</h1>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavi362&show_icons=true&layout=compact&theme=tokyonight" alt="chavi362" />
-  <img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight&layout=compact" />
-</p>
 <img src="[Ni00ZWU2YzkyMjViZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EXdtHcY0K3_YAE6xErW8kOB7M5LqSo9eBgkjhdOgd9s](https://i.pinimg.com/originals/1a/b4/e6/1ab4e6a7041358d80dd6809fd4b97395.gif)https://i.pinimg.com/originals/1a/b4/e6/1ab4e6a7041358d80dd6809fd4b97395.gif" width="60px">
 
 <h2 align="center" width="100%">Thank you for visiting my profile. Have a great day! 🌟</h2>
