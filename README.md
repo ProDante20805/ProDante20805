@@ -3,34 +3,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="chavi362"  /></a> </p>
 
 
-<!--
-**chavi362/chavi362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img  width="50%" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif">
-</div>
-<p>
-  <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
--->
-<div align="center">
+<div align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+<div align="right">
 <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
 
