@@ -29,6 +29,9 @@ Here are some ideas to get you started:
   <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Organizations,Stars,Followers">
+ </div>
 
 
 <div align="center">
