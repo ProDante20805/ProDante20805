@@ -2,14 +2,9 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="chavi362"  /></a> </p>
 
-
-
-<div float="left">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
- <div float="left">
- <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
 
 
 <div align="center">
